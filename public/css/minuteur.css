@@ -1,15 +1,10 @@
-body {
+.timer {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.timer {
     font-family: sans-serif;
-    display: inline-block;
     padding: 24px 32px;
     border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 .timer__part {
