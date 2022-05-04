@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="alarm.css" />
-    <script type='text/javascript' src='alarm.js'></script>
+    <link rel="stylesheet" href="../public/css/alarm.css" />
+    <script type='text/javascript' src='../public/js/alarm.js'></script>
     <title>Chronomètre</title>
   </head>
   <body>
