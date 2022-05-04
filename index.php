@@ -36,7 +36,7 @@
         
         <div class="mid">
             <h1>O'CLOCK</h1>
-            <h2>LES MAITRES DU TEMPS</h2>
+            <h2>PROJECT JAVASCRIPT</h2>
         </div>
     </body>
 </html>
